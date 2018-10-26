@@ -13,12 +13,14 @@
 
 <tr>
 <td>Mobile Id</td>
-<td><fo:input path="mobId"/>
+<td><fo:input path="mobId"/></td>
+<td><fo:errors path="mobId"></fo:errors></td>
 </tr>
 
 <tr>
 <td>Mobile Name</td>
-<td><fo:input path="mobName"/>
+<td><fo:input path="mobName"/></td>
+<td><fo:errors path="mobName"></fo:errors></td>
 </tr>
 
 <tr>

@@ -7,11 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<%--<% response.sendRedirect("home");%> --%>
-<a href="home">Add Mobile</a><br>
-<a href="showall">Show Mobile</a><br>
-<a href="searchmobile">Search Mobile</a><br>
-<a href="deletemobile">Delete Mobile</a><br>
-<a href="">Update Mobile</a><br>
+Data Deleted Successfully...
 </body>
 </html>

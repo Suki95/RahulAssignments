@@ -7,11 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-<%--<% response.sendRedirect("home");%> --%>
-<a href="home">Add Mobile</a><br>
-<a href="showall">Show Mobile</a><br>
-<a href="searchmobile">Search Mobile</a><br>
-<a href="deletemobile">Delete Mobile</a><br>
-<a href="">Update Mobile</a><br>
+Search Mobile is<br>
+Mobile ID ${temp.mobId}<br>
+Mobile Name ${temp.mobName}<br>
+Mobile Price ${temp.mobPrice}<br>
+Mobile Category ${temp.mobCategory}<br>
+Mobile Online ${temp.mobOnline}
 </body>
 </html>
